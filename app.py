@@ -1,7 +1,10 @@
+# 팀원 1이 수정함
+
 # app.py
 import streamlit as st
 from datetime import datetime
 
+st.write("팀원1이 작업한 메인 페이지입니다.")
 # 페이지 설정
 st.set_page_config(
     page_title="우리 팀 대시보드",
